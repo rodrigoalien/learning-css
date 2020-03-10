@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: #edf7fa;
+  text-align: center;
 }
 
 h1 {
@@ -9,24 +10,30 @@ h1 {
 
 .top-container {
   background-color: #5f6caf;
-  width: 200px;
-  height: 200px;
-  padding: 20px;
-  border: solid 10px
+  position: relative;
+  padding-top: 100px;
 }
 
 .middle-container{
   background-color: #ffb677;
   width: 200px;
   height: 200px;
-  border: solid 20px;
-  margin-left: 260px;
 }
 
-.botton-container{
+.bottom-container{
   background-color: #ff8364;
   width: 200px;
   height: 200px;
-  border: solid 10px;
-  margin-left: 500px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
 }
