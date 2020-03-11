@@ -2,10 +2,21 @@ body {
   margin: 0;
   background-color: #edf7fa;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 h1 {
   margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  text-decoration-color: green;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 .top-container {
