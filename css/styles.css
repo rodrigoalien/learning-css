@@ -33,6 +33,10 @@ a {
   padding-top: 100px;
 }
 
+.subtitle {
+  font-weight: normal;
+}
+
 .middle-container{
   background-color: #5f6caf;
 }
