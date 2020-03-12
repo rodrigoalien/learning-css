@@ -33,18 +33,6 @@ a {
   padding-top: 100px;
 }
 
-.subtitle {
-  font-weight: normal;
-}
-
-.middle-container{
-  background-color: #5f6caf;
-}
-
-.bottom-container{
-  background-color: #ff8364;
-}
-
 .top-cloud{
   position: absolute;
   right: 300px;
@@ -55,4 +43,21 @@ a {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.middle-container{
+  background-color: #5f6caf;
+}
+
+.skill-row {
+  width: 30%;
+  margin: 100px auto 100px auto;
+}
+
+.bottom-container{
+  background-color: #ff8364;
 }
