@@ -56,6 +56,14 @@ a {
 .skill-row {
   width: 30%;
   margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 .bottom-container{
