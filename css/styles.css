@@ -60,10 +60,16 @@ a {
   line-height: 2;
 }
 
-.skill-img {
+.code-img {
   width: 25%;
   float: left;
   margin-right: 30px;
+}
+
+.astro-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
 }
 
 .bottom-container{
