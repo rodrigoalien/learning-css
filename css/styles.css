@@ -7,7 +7,7 @@ body {
 
 h1 {
   font-size: 5.625rem;
-  color: #5f6caf;
+  color: #ff8364;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
@@ -32,7 +32,7 @@ a {
 }
 
 .top-container {
-  background-color: #edf7fa;
+  background-color: #5f6caf;
   position: relative;
   padding-top: 100px;
 }
@@ -51,6 +51,16 @@ a {
 
 .subtitle {
   font-weight: normal;
+}
+
+.profile-img {
+  width: 25%;
+}
+
+.profile {
+  width: 30%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
 }
 
 .skill-row {
